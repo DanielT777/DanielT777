@@ -9,4 +9,4 @@
 
 - 📫 How to reach me **daniel.tirrier@epitech.eu**
 
-- 🔨 How to work with me [click here](https://www.malt.fr/profile/danieltirrier)
+- 🔨 [Work with me](https://www.malt.fr/profile/danieltirrier)
