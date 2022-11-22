@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **Epitech Lyon**
 
-- 🌱 I’m currently learning **TypeScript, Kotlin & Swift**
+- 🌱 I’m currently learning **TypeScript, Kotlin/Swift, Go-lang**
 
 - 👨‍💻 All of my projects are available at [google.com](google.com)
 
