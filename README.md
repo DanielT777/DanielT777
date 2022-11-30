@@ -13,7 +13,8 @@
 
 - About:
 
-https://actu.ionis-group.com/epitech-lyon-delivraide/ \n
+https://actu.ionis-group.com/epitech-lyon-delivraide/ 
+
 https://epitech-lyon.github.io/delivraid/
 
 
