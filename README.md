@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **Epitech Lyon**
 
-- 🌱 I’m currently learning **TypeScript, Objective-C, Go-lang, Docker**
+- 🌱 I’m currently working on **Next.JS 13 / React-Native / Redux RTK / Node.JS / TypeScript / Prisma **
 
 - 👨‍💻 All of my projects are available at [google.com](google.com)
 
