@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on **Next.JS 13 / React-Native / Redux RTK / Node.JS / TypeScript / Prisma **
 
-- 👨‍💻 All of my projects are available at [google.com](google.com)
+- 👨‍💻 All of my projects are available at [https://danieltirrier.com/](https://danieltirrier.com/)
 
 - 📫 How to reach me **daniel.tirrier@epitech.eu**
 
